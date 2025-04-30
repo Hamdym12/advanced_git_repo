@@ -6,7 +6,7 @@ class OutlinedButton extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return TextButton(
-      onPressed: (){},
+      onPressed: () {},
       child: const Text('Text Button'),
     );
   }
